@@ -1,6 +1,6 @@
 module github.com/rpcpool/yellowstone-grpc/examples/golang
 
-go 1.17
+go 1.18
 
 require (
 	golang.org/x/net v0.5.0 // indirect
